@@ -110,7 +110,7 @@ Module.register('MMM-Fish', {
             image.src = './modules/MMM-Fish/images/' + id + '.png';
 
             var name = document.createElement('span');
-            name.className = 'fishName';
+            name.className =  'fishName';
             name.innerHTML = fishName;
 
             fishDiv.appendChild(image);

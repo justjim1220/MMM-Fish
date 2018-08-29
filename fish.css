@@ -1,23 +1,24 @@
 .MMM-Fish {
-  width: 1000px;
-  padding-right: 50px;
-  padding-left: 50px;
+  width: 1200px;
+  padding-top: 30px;
 }
 
 .fishTank {
-    text-align: center;
+  text-align: center;
 }
 
 .fish {
-    display: inline-block;
+  display: inline-block;
 }
 
 .fishPic {
-    vertical-align: middle;
-    margin-right: 20px;
+  width: 400px;
+  vertical-align: middle;
 }
 
 .fishName {
-    display: inline-block;
-    vertical-align: middle;
+  font-size: 100px;
+  font-weight: 600;
+  display: inline-block;
+  vertical-align: middle;
 }
