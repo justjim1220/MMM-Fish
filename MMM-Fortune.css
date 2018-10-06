@@ -1,0 +1,29 @@
+/* Copy and paste any or all of these css entries into your custom.css file inside your
+ * css folder. The functions are annotated to make things as easy as possible for you.
+ * Use any colors you want! For example - "http://htmlcolorcodes.com/color-picker/"
+ * Pick your color, copy and paste the HEX number. Example - #62FF00 = bright green.
+ */
+
+.MMM-Fortune {
+  padding-right: 50px;
+  padding-bottom: 100px;
+  width: 1000px;
+}
+
+.MMM-Fortune h3.large {
+  color: blue;
+  font-size: 50px;
+  text-align: center;
+}
+
+.MMM-Fortune p.medium.bright {
+  color: green;
+  font-size: 50px;
+  text-align: center;
+}
+
+.MMM-Fortune p.large.bright {
+  color:maroon;
+  font-size: 50px;
+  text-align: center;
+}
